@@ -2,4 +2,4 @@
 
 ## Promotion/?News letter Email
 
-!(images/ReadmeImage.jpeg "Desktop version")
+![images/ReadmeImage.jpeg "Desktop version"]
